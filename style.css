@@ -5,12 +5,3 @@ html, body {
 canvas {
   display: block;
 }
-iframe{
-  border: none;
-  display: block;
-}
-
-p{
-  display: flex;
-  justify-content: center;
-}
